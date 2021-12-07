@@ -1,0 +1,38 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/mysql-connector-java-8.0.25.jar",
+        "libs/java fx/javafx.base.jar",
+        "libs/java fx/javafx.controls.jar",
+        "libs/java fx/javafx.fxml.jar",
+        "libs/java fx/javafx.graphics.jar",
+        "libs/java fx/javafx.media.jar",
+        "libs/java fx/javafx.swing.jar",
+        "libs/java fx/javafx.web.jar",
+        "libs/java fx/javafx-swt.jar",
+        "libs/javafx/javafx.base.jar",
+        "libs/javafx/javafx.controls.jar",
+        "libs/javafx/javafx.fxml.jar",
+        "libs/javafx/javafx.graphics.jar",
+        "libs/javafx/javafx.media.jar",
+        "libs/javafx/javafx.swing.jar",
+        "libs/javafx/javafx.web.jar",
+        "libs/javafx/javafx-swt.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "connname",
+            "database": "somedb",
+            "username": "root",
+            "password": "example"
+        }
+    ]
+}
